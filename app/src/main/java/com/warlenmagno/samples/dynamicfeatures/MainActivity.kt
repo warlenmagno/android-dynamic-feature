@@ -1,4 +1,4 @@
-package com.google.android.samples.dynamicfeatures
+package com.warlenmagno.samples.dynamicfeatures
 
 import android.content.Intent
 import android.os.Bundle

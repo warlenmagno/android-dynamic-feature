@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.google.android.samples.dynamicfeatures.ondemand;
+package com.warlenmagno.samples.dynamicfeatures.ondemand;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
-import com.google.android.samples.dynamicfeatures.ondemand.java.R;
+import com.warlenmagno.samples.dynamicfeatures.ondemand.java.R;
 
 import androidx.annotation.Nullable;
 
